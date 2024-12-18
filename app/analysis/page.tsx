@@ -30,7 +30,7 @@ type Recommendations = {
 
 // Import the JSON and cast it to the type
 import recommendations from "../../statics/recommendation.json" assert { type: "json" };
-const recs = recommendations as Recommendations;
+const recs = recommendations as unknown as Recommendations;
 
 const { Title } = Typography;
 const { Content } = Layout;
