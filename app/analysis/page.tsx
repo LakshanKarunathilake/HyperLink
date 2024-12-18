@@ -12,8 +12,17 @@ import {
 import {useState} from "react";
 import AppHeader from "@/components/Header";
 import searchData from "../../statics/search.json";
-import recommendations from "../../statics/recommendation.json";
 import HyperlinkTable, {DataType} from "@/components/HyperlinkTable";
+
+type Recommendations = {
+    [language: string]: {
+        [key: string]: { [key: string]: { [key: string]: { [key: string]: string } } };
+    };
+};
+
+// Import the JSON and cast it to the type
+import recommendations from "../../statics/recommendation.json" assert { type: "json" };
+const recs = recommendations as Recommendations;
 
 const { Title } = Typography;
 const { Content } = Layout;
@@ -80,15 +89,14 @@ export default function Home() {
         console.log('onSelect', value);
         console.log(value)
         // Find the results from the recommendations
-        const results = recommendations["en"][value];
-        console.log(results["hyperlinks"])
-        const hyperlinks = results["hyperlinks"]
+        const results = recs["en"][value] as { [key: string]: { [key: string]: { [key: string]: string } } };
+        const hyperlinks = results["hyperlinks"];
 
-        const dataMappings = []
+        const dataMappings: DataType[] = [];
         let index = 1;
         for (const key of Object.keys(hyperlinks)) {
             dataMappings.push({
-                key: index,
+                key: index.toString(),
                 qid: key,
                 en: hyperlinks[key]["label"][0],
                 vi: hyperlinks[key]["label"][1],
