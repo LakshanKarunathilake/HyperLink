@@ -2,6 +2,7 @@ import React from 'react';
 import {Button, Layout} from 'antd';
 import Image from 'next/image';
 import Link from "next/link";
+import logo from "public/img/logo.png";
 
 const { Header } = Layout;
 
@@ -22,7 +23,7 @@ const AppHeader: React.FC = () => {
         <Header style={headerStyle}>
             <Link href={"/"}>
             <Image
-                src="/img/logo.png"
+                src={logo}
                 width="100"
                 alt="N"
                 height="50"
