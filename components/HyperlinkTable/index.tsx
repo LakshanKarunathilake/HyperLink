@@ -7,7 +7,7 @@ export interface DataType {
     en: string;
     vi: string;
     ja: string;
-    score: string;
+    score: number;
     qid: string;
 }
 

@@ -21,7 +21,7 @@ type Recommendations = {
             hyperlinks: {
                 [hyperlinkId: string]: {
                     label: string[];
-                    score: string;
+                    score: number;
                 };
             };
         };
