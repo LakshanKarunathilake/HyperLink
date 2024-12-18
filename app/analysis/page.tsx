@@ -13,7 +13,7 @@ import {useState} from "react";
 import AppHeader from "@/components/Header";
 import searchData from "../../statics/search.json";
 import recommendations from "../../statics/recommendation.json";
-import HyperlinkTable from "@/components/HyperlinkTable";
+import HyperlinkTable, {DataType} from "@/components/HyperlinkTable";
 
 const { Title } = Typography;
 const { Content } = Layout;
@@ -70,7 +70,7 @@ export default function Home() {
 
     const [options, setOptions] = useState<AutoCompleteProps['options']>([]);
     const [selectedTitle, setSelectedTitle] = useState<string | null>(null);
-    const [tableData, setTableData] = useState<any[]>([]);
+    const [tableData, setTableData] = useState<DataType[]>([]);
 
     const handleSearch = (value: string) => {
         setOptions(value ? searchResult(value, language) : []);

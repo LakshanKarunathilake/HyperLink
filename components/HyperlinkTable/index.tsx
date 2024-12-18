@@ -1,13 +1,14 @@
 import React from 'react';
-import { Space, Table, Tag } from 'antd';
+import { Table } from 'antd';
 import type { TableProps } from 'antd';
 
-interface DataType {
+export interface DataType {
     key: string;
-    name: string;
-    age: number;
-    address: string;
-    tags: string[];
+    en: string;
+    vi: string;
+    ja: string;
+    score: string;
+    qid: string;
 }
 
 const columns: TableProps<DataType>['columns'] = [
@@ -39,6 +40,6 @@ const columns: TableProps<DataType>['columns'] = [
     }
 ];
 
-const HyperlinkTable: React.FC = ({tableData}) => <Table<DataType> columns={columns} dataSource={tableData} />;
+const HyperlinkTable: React.FC<{ tableData: DataType[] }> = ({ tableData }) => <Table<DataType> columns={columns} dataSource={tableData} />;
 
 export default HyperlinkTable;
