@@ -1,0 +1,1682 @@
+[
+  {
+    "Qid": "Q35765",
+    "label_en": "Osaka",
+    "label_vi": "Thành phố Ōsaka",
+    "label_ja": "大阪市"
+  },
+  {
+    "Qid": "Q46",
+    "label_en": "Europe",
+    "label_vi": "châu Âu",
+    "label_ja": "ヨーロッパ"
+  },
+  {
+    "Qid": "Q46747",
+    "label_en": "Sendai",
+    "label_vi": "Sendai",
+    "label_ja": "仙台市"
+  },
+  {
+    "Qid": "Q12557",
+    "label_en": "Mongol Empire",
+    "label_vi": "Đế quốc Mông Cổ",
+    "label_ja": "モンゴル帝国"
+  },
+  {
+    "Qid": "Q146790",
+    "label_en": "Aomori",
+    "label_vi": "Aomori",
+    "label_ja": "青森市"
+  },
+  {
+    "Qid": "Q186075",
+    "label_en": "contemporary history",
+    "label_vi": "Lịch sử đương đại",
+    "label_ja": "現代 (時代区分)"
+  },
+  {
+    "Qid": "Q41621",
+    "label_en": "Haifa",
+    "label_vi": "Haifa",
+    "label_ja": "ハイファ"
+  },
+  {
+    "Qid": "Q153",
+    "label_en": "ethanol",
+    "label_vi": "êtanol",
+    "label_ja": "エタノール"
+  },
+  {
+    "Qid": "Q30002",
+    "label_en": "Chengdu",
+    "label_vi": "Thành Đô",
+    "label_ja": "成都市"
+  },
+  {
+    "Qid": "Q252",
+    "label_en": "Indonesia",
+    "label_vi": "Indonesia",
+    "label_ja": "インドネシア"
+  },
+  {
+    "Qid": "Q1858",
+    "label_en": "Hanoi",
+    "label_vi": "Hà Nội",
+    "label_ja": "ハノイ"
+  },
+  {
+    "Qid": "Q1041",
+    "label_en": "Senegal",
+    "label_vi": "Sénégal",
+    "label_ja": "セネガル"
+  },
+  {
+    "Qid": "Q92161",
+    "label_en": "Changchun",
+    "label_vi": "Trường Xuân, Cát Lâm",
+    "label_ja": "長春市"
+  },
+  {
+    "Qid": "Q38",
+    "label_en": "Italy",
+    "label_vi": "Ý",
+    "label_ja": "イタリア"
+  },
+  {
+    "Qid": "Q37951",
+    "label_en": "Sapporo",
+    "label_vi": "Sapporo",
+    "label_ja": "札幌市"
+  },
+  {
+    "Qid": "Q79961",
+    "label_en": "Christ the Redeemer",
+    "label_vi": "Tượng Chúa Kitô Cứu Thế",
+    "label_ja": "コルコバードのキリスト像"
+  },
+  {
+    "Qid": "Q7033",
+    "label_en": "Nordhausen",
+    "label_vi": "Nordhausen",
+    "label_ja": "ノルトハウゼン"
+  },
+  {
+    "Qid": "Q238",
+    "label_en": "San Marino",
+    "label_vi": "San Marino",
+    "label_ja": "サンマリノ"
+  },
+  {
+    "Qid": "Q228",
+    "label_en": "Andorra",
+    "label_vi": "Andorra",
+    "label_ja": "アンドラ"
+  },
+  {
+    "Qid": "Q784",
+    "label_en": "Dominica",
+    "label_vi": "Dominica",
+    "label_ja": "ドミニカ国"
+  },
+  {
+    "Qid": "Q155",
+    "label_en": "Brazil",
+    "label_vi": "Brasil",
+    "label_ja": "ブラジル"
+  },
+  {
+    "Qid": "Q8131",
+    "label_en": "Palembang",
+    "label_vi": "Palembang",
+    "label_ja": "パレンバン"
+  },
+  {
+    "Qid": "Q16520",
+    "label_en": "Busan",
+    "label_vi": "Busan",
+    "label_ja": "釜山広域市"
+  },
+  {
+    "Qid": "Q836",
+    "label_en": "Myanmar",
+    "label_vi": "Myanma",
+    "label_ja": "ミャンマー"
+  },
+  {
+    "Qid": "Q241",
+    "label_en": "Cuba",
+    "label_vi": "Cuba",
+    "label_ja": "キューバ"
+  },
+  {
+    "Qid": "Q265",
+    "label_en": "Uzbekistan",
+    "label_vi": "Uzbekistan",
+    "label_ja": "ウズベキスタン"
+  },
+  {
+    "Qid": "Q11772",
+    "label_en": "Ancient Greece",
+    "label_vi": "Hy Lạp cổ đại",
+    "label_ja": "古代ギリシア"
+  },
+  {
+    "Qid": "Q1019",
+    "label_en": "Madagascar",
+    "label_vi": "Madagascar",
+    "label_ja": "マダガスカル"
+  },
+  {
+    "Qid": "Q18125",
+    "label_en": "Manchester",
+    "label_vi": "Manchester",
+    "label_ja": "マンチェスター"
+  },
+  {
+    "Qid": "Q796",
+    "label_en": "Iraq",
+    "label_vi": "Iraq",
+    "label_ja": "イラク"
+  },
+  {
+    "Qid": "Q881",
+    "label_en": "Vietnam",
+    "label_vi": "Việt Nam",
+    "label_ja": "ベトナム"
+  },
+  {
+    "Qid": "Q184963",
+    "label_en": "Edo period",
+    "label_vi": "Thời kỳ Edo",
+    "label_ja": "江戸時代"
+  },
+  {
+    "Qid": "Q10257",
+    "label_en": "Channel Tunnel",
+    "label_vi": "Đường hầm eo biển Manche",
+    "label_ja": "英仏海峡トンネル"
+  },
+  {
+    "Qid": "Q657",
+    "label_en": "Chad",
+    "label_vi": "Tchad",
+    "label_ja": "チャド"
+  },
+  {
+    "Qid": "Q2773",
+    "label_en": "Brunswick",
+    "label_vi": "Braunschweig",
+    "label_ja": "ブラウンシュヴァイク"
+  },
+  {
+    "Qid": "Q612",
+    "label_en": "Dubai",
+    "label_vi": "Dubai",
+    "label_ja": "ドバイ"
+  },
+  {
+    "Qid": "Q188694",
+    "label_en": "Buthrotum",
+    "label_vi": "Butrint",
+    "label_ja": "ブトリント"
+  },
+  {
+    "Qid": "Q25282",
+    "label_en": "Da Nang",
+    "label_vi": "Đà Nẵng",
+    "label_ja": "ダナン"
+  },
+  {
+    "Qid": "Q842",
+    "label_en": "Oman",
+    "label_vi": "Oman",
+    "label_ja": "オマーン"
+  },
+  {
+    "Qid": "Q49085",
+    "label_en": "African Americans",
+    "label_vi": "người Mỹ gốc Phi",
+    "label_ja": "アフリカ系アメリカ人"
+  },
+  {
+    "Qid": "Q1780",
+    "label_en": "Bratislava",
+    "label_vi": "Bratislava",
+    "label_ja": "ブラチスラヴァ"
+  },
+  {
+    "Qid": "Q6837",
+    "label_en": "Lutherstadt Wittenberg",
+    "label_vi": "Wittenberg",
+    "label_ja": "ヴィッテンベルク"
+  },
+  {
+    "Qid": "Q1865",
+    "label_en": "Kuala Lumpur",
+    "label_vi": "Kuala Lumpur",
+    "label_ja": "クアラルンプール"
+  },
+  {
+    "Qid": "Q8646",
+    "label_en": "Hong Kong",
+    "label_vi": "Hồng Kông",
+    "label_ja": "香港"
+  },
+  {
+    "Qid": "Q20927",
+    "label_en": "Daegu",
+    "label_vi": "Daegu",
+    "label_ja": "大邱広域市"
+  },
+  {
+    "Qid": "Q1013",
+    "label_en": "Lesotho",
+    "label_vi": "Lesotho",
+    "label_ja": "レソト"
+  },
+  {
+    "Qid": "Q6691",
+    "label_en": "Homer",
+    "label_vi": "Hómēros",
+    "label_ja": "ホメーロス"
+  },
+  {
+    "Qid": "Q1156",
+    "label_en": "Mumbai",
+    "label_vi": "Mumbai",
+    "label_ja": "ムンバイ"
+  },
+  {
+    "Qid": "Q456",
+    "label_en": "Lyon",
+    "label_vi": "Lyon",
+    "label_ja": "リヨン"
+  },
+  {
+    "Qid": "Q44440",
+    "label_en": "Golden Gate Bridge",
+    "label_vi": "Cầu Cổng Vàng",
+    "label_ja": "ゴールデンゲートブリッジ"
+  },
+  {
+    "Qid": "Q7781",
+    "label_en": "history of Spain",
+    "label_vi": "Lịch sử Tây Ban Nha",
+    "label_ja": "スペインの歴史"
+  },
+  {
+    "Qid": "Q2469",
+    "label_en": "Andromeda Galaxy",
+    "label_vi": "thiên hà Tiên Nữ",
+    "label_ja": "アンドロメダ銀河"
+  },
+  {
+    "Qid": "Q826",
+    "label_en": "Maldives",
+    "label_vi": "Maldives",
+    "label_ja": "モルディブ"
+  },
+  {
+    "Qid": "Q1486",
+    "label_en": "Buenos Aires",
+    "label_vi": "Buenos Aires",
+    "label_ja": "ブエノスアイレス"
+  },
+  {
+    "Qid": "Q225",
+    "label_en": "Bosnia and Herzegovina",
+    "label_vi": "Bosna và Hercegovina",
+    "label_ja": "ボスニア・ヘルツェゴビナ"
+  },
+  {
+    "Qid": "Q5764",
+    "label_en": "Bukhara",
+    "label_vi": "Bukhara",
+    "label_ja": "ブハラ"
+  },
+  {
+    "Qid": "Q185264",
+    "label_en": "history of mathematics",
+    "label_vi": "Lịch sử toán học",
+    "label_ja": "数学史"
+  },
+  {
+    "Qid": "Q5813",
+    "label_en": "Canary Islands",
+    "label_vi": "Quần đảo Canaria",
+    "label_ja": "カナリア諸島"
+  },
+  {
+    "Qid": "Q596",
+    "label_en": "Ceres",
+    "label_vi": "Ceres",
+    "label_ja": "ケレス"
+  },
+  {
+    "Qid": "Q523469",
+    "label_en": "Mariánské Lázně",
+    "label_vi": "Mariánské Lázně",
+    "label_ja": "マリアーンスケー・ラーズニェ"
+  },
+  {
+    "Qid": "Q2843",
+    "label_en": "Lübeck",
+    "label_vi": "Lübeck",
+    "label_ja": "リューベック"
+  },
+  {
+    "Qid": "Q235311",
+    "label_en": "Doraemon",
+    "label_vi": "Doraemon",
+    "label_ja": "ドラえもん"
+  },
+  {
+    "Qid": "Q32",
+    "label_en": "Luxembourg",
+    "label_vi": "Luxembourg",
+    "label_ja": "ルクセンブルク"
+  },
+  {
+    "Qid": "Q64",
+    "label_en": "Berlin",
+    "label_vi": "Berlin",
+    "label_ja": "ベルリン"
+  },
+  {
+    "Qid": "Q712",
+    "label_en": "Fiji",
+    "label_vi": "Fiji",
+    "label_ja": "フィジー"
+  },
+  {
+    "Qid": "Q3130",
+    "label_en": "Sydney",
+    "label_vi": "Sydney",
+    "label_ja": "シドニー"
+  },
+  {
+    "Qid": "Q1009",
+    "label_en": "Cameroon",
+    "label_vi": "Cameroon",
+    "label_ja": "カメルーン"
+  },
+  {
+    "Qid": "Q833",
+    "label_en": "Malaysia",
+    "label_vi": "Malaysia",
+    "label_ja": "マレーシア"
+  },
+  {
+    "Qid": "Q75110",
+    "label_en": "Dandong",
+    "label_vi": "Đan Đông",
+    "label_ja": "丹東市"
+  },
+  {
+    "Qid": "Q928",
+    "label_en": "Philippines",
+    "label_vi": "Philippines",
+    "label_ja": "フィリピン"
+  },
+  {
+    "Qid": "Q180012",
+    "label_en": "Behistun Inscription",
+    "label_vi": "Chữ khắc Behistun",
+    "label_ja": "ベヒストゥン碑文"
+  },
+  {
+    "Qid": "Q472",
+    "label_en": "Sofia",
+    "label_vi": "Sofia",
+    "label_ja": "ソフィア"
+  },
+  {
+    "Qid": "Q483522",
+    "label_en": "Villach",
+    "label_vi": "Villach",
+    "label_ja": "フィラッハ"
+  },
+  {
+    "Qid": "Q3838",
+    "label_en": "Kinshasa",
+    "label_vi": "Kinshasa",
+    "label_ja": "キンシャサ"
+  },
+  {
+    "Qid": "Q750",
+    "label_en": "Bolivia",
+    "label_vi": "Bolivia",
+    "label_ja": "ボリビア"
+  },
+  {
+    "Qid": "Q16552",
+    "label_en": "San Diego",
+    "label_vi": "San Diego",
+    "label_ja": "サン・ディエゴ"
+  },
+  {
+    "Qid": "Q7850",
+    "label_en": "Chinese",
+    "label_vi": "tiếng Trung Quốc",
+    "label_ja": "中国語"
+  },
+  {
+    "Qid": "Q9326",
+    "label_en": "Vientiane",
+    "label_vi": "Viêng Chăn",
+    "label_ja": "ヴィエンチャン"
+  },
+  {
+    "Qid": "Q43070",
+    "label_en": "Donetsk",
+    "label_vi": "Donetsk",
+    "label_ja": "ドネツィク"
+  },
+  {
+    "Qid": "Q1707",
+    "label_en": "Kiel",
+    "label_vi": "Kiel",
+    "label_ja": "キール"
+  },
+  {
+    "Qid": "Q179691",
+    "label_en": "Niigata",
+    "label_vi": "Thành phố Niigata",
+    "label_ja": "新潟市"
+  },
+  {
+    "Qid": "Q1030",
+    "label_en": "Namibia",
+    "label_vi": "Namibia",
+    "label_ja": "ナミビア"
+  },
+  {
+    "Qid": "Q79",
+    "label_en": "Egypt",
+    "label_vi": "Ai Cập",
+    "label_ja": "エジプト"
+  },
+  {
+    "Qid": "Q35",
+    "label_en": "Denmark",
+    "label_vi": "Đan Mạch",
+    "label_ja": "デンマーク"
+  },
+  {
+    "Qid": "Q1861",
+    "label_en": "Bangkok",
+    "label_vi": "Bangkok",
+    "label_ja": "バンコク"
+  },
+  {
+    "Qid": "Q1055",
+    "label_en": "Hamburg",
+    "label_vi": "Hamburg",
+    "label_ja": "ハンブルク"
+  },
+  {
+    "Qid": "Q5468",
+    "label_en": "Durban",
+    "label_vi": "Durban",
+    "label_ja": "ダーバン"
+  },
+  {
+    "Qid": "Q347",
+    "label_en": "Liechtenstein",
+    "label_vi": "Liechtenstein",
+    "label_ja": "リヒテンシュタイン"
+  },
+  {
+    "Qid": "Q3033",
+    "label_en": "Göttingen",
+    "label_vi": "Göttingen",
+    "label_ja": "ゲッティンゲン"
+  },
+  {
+    "Qid": "Q70802",
+    "label_en": "French Third Republic",
+    "label_vi": "Đệ tam Cộng hòa Pháp",
+    "label_ja": "フランス第三共和政"
+  },
+  {
+    "Qid": "Q16554",
+    "label_en": "Denver",
+    "label_vi": "Denver",
+    "label_ja": "デンヴァー"
+  },
+  {
+    "Qid": "Q13298",
+    "label_en": "Graz",
+    "label_vi": "Graz",
+    "label_ja": "グラーツ"
+  },
+  {
+    "Qid": "Q33946",
+    "label_en": "Czechoslovakia",
+    "label_vi": "Tiệp Khắc",
+    "label_ja": "チェコスロバキア"
+  },
+  {
+    "Qid": "Q30",
+    "label_en": "United States of America",
+    "label_vi": "Hoa Kỳ",
+    "label_ja": "アメリカ合衆国"
+  },
+  {
+    "Qid": "Q17139",
+    "label_en": "Akita",
+    "label_vi": "Akita",
+    "label_ja": "秋田市"
+  },
+  {
+    "Qid": "Q269",
+    "label_en": "Tashkent",
+    "label_vi": "Tashkent",
+    "label_ja": "タシュケント"
+  },
+  {
+    "Qid": "Q253414",
+    "label_en": "FIFA",
+    "label_vi": "FIFA",
+    "label_ja": "国際サッカー連盟"
+  },
+  {
+    "Qid": "Q3616",
+    "label_en": "Tehran",
+    "label_vi": "Tehran",
+    "label_ja": "テヘラン"
+  },
+  {
+    "Qid": "Q81931",
+    "label_en": "Confederate States of America",
+    "label_vi": "Liên minh miền Nam Hoa Kỳ",
+    "label_ja": "アメリカ連合国"
+  },
+  {
+    "Qid": "Q749",
+    "label_en": "Groningen",
+    "label_vi": "Groningen",
+    "label_ja": "フローニンゲン"
+  },
+  {
+    "Qid": "Q2145",
+    "label_en": "Quebec City",
+    "label_vi": "Thành phố Québec",
+    "label_ja": "ケベック・シティー"
+  },
+  {
+    "Qid": "Q882",
+    "label_en": "Charlie Chaplin",
+    "label_vi": "Charlie Chaplin",
+    "label_ja": "チャールズ・チャップリン"
+  },
+  {
+    "Qid": "Q1036",
+    "label_en": "Uganda",
+    "label_vi": "Uganda",
+    "label_ja": "ウガンダ"
+  },
+  {
+    "Qid": "Q1353",
+    "label_en": "Delhi",
+    "label_vi": "Delhi",
+    "label_ja": "デリー"
+  },
+  {
+    "Qid": "Q8686",
+    "label_en": "Shanghai",
+    "label_vi": "Thượng Hải",
+    "label_ja": "上海市"
+  },
+  {
+    "Qid": "Q16635",
+    "label_en": "Guam",
+    "label_vi": "Guam",
+    "label_ja": "グアム"
+  },
+  {
+    "Qid": "Q244",
+    "label_en": "Barbados",
+    "label_vi": "Barbados",
+    "label_ja": "バルバドス"
+  },
+  {
+    "Qid": "Q9581",
+    "label_en": "Confucianism",
+    "label_vi": "Nho giáo",
+    "label_ja": "儒教"
+  },
+  {
+    "Qid": "Q14773",
+    "label_en": "Macau",
+    "label_vi": "Ma Cao",
+    "label_ja": "マカオ"
+  },
+  {
+    "Qid": "Q143",
+    "label_en": "Esperanto",
+    "label_vi": "Quốc tế ngữ",
+    "label_ja": "エスペラント"
+  },
+  {
+    "Qid": "Q1731",
+    "label_en": "Dresden",
+    "label_vi": "Dresden",
+    "label_ja": "ドレスデン"
+  },
+  {
+    "Qid": "Q11725",
+    "label_en": "Chongqing",
+    "label_vi": "Trùng Khánh",
+    "label_ja": "重慶市"
+  },
+  {
+    "Qid": "Q25475",
+    "label_en": "Batumi",
+    "label_vi": "Batumi",
+    "label_ja": "バトゥミ"
+  },
+  {
+    "Qid": "Q233",
+    "label_en": "Malta",
+    "label_vi": "Malta",
+    "label_ja": "マルタ"
+  },
+  {
+    "Qid": "Q183",
+    "label_en": "Germany",
+    "label_vi": "Đức",
+    "label_ja": "ドイツ"
+  },
+  {
+    "Qid": "Q129677",
+    "label_en": "Chernobyl",
+    "label_vi": "Chernobyl",
+    "label_ja": "チョルノーブィリ"
+  },
+  {
+    "Qid": "Q212",
+    "label_en": "Ukraine",
+    "label_vi": "Ukraina",
+    "label_ja": "ウクライナ"
+  },
+  {
+    "Qid": "Q1461",
+    "label_en": "Manila",
+    "label_vi": "Manila",
+    "label_ja": "マニラ"
+  },
+  {
+    "Qid": "Q34713",
+    "label_en": "Salzburg",
+    "label_vi": "Salzburg",
+    "label_ja": "ザルツブルク"
+  },
+  {
+    "Qid": "Q8434",
+    "label_en": "education",
+    "label_vi": "giáo dục",
+    "label_ja": "教育"
+  },
+  {
+    "Qid": "Q27306",
+    "label_en": "Kingdom of Prussia",
+    "label_vi": "Vương quốc Phổ",
+    "label_ja": "プロイセン王国"
+  },
+  {
+    "Qid": "Q1033",
+    "label_en": "Nigeria",
+    "label_vi": "Nigeria",
+    "label_ja": "ナイジェリア"
+  },
+  {
+    "Qid": "Q117",
+    "label_en": "Ghana",
+    "label_vi": "Ghana",
+    "label_ja": "ガーナ"
+  },
+  {
+    "Qid": "Q37100",
+    "label_en": "Auckland",
+    "label_vi": "Auckland",
+    "label_ja": "オークランド"
+  },
+  {
+    "Qid": "Q22880",
+    "label_en": "Electoral Palatinate",
+    "label_vi": "Kurpfalz",
+    "label_ja": "プファルツ選帝侯領"
+  },
+  {
+    "Qid": "Q878",
+    "label_en": "United Arab Emirates",
+    "label_vi": "Các Tiểu vương quốc Ả Rập Thống nhất",
+    "label_ja": "アラブ首長国連邦"
+  },
+  {
+    "Qid": "Q45",
+    "label_en": "Portugal",
+    "label_vi": "Bồ Đào Nha",
+    "label_ja": "ポルトガル"
+  },
+  {
+    "Qid": "Q77",
+    "label_en": "Uruguay",
+    "label_vi": "Uruguay",
+    "label_ja": "ウルグアイ"
+  },
+  {
+    "Qid": "Q142",
+    "label_en": "France",
+    "label_vi": "Pháp",
+    "label_ja": "フランス"
+  },
+  {
+    "Qid": "Q717",
+    "label_en": "Venezuela",
+    "label_vi": "Venezuela",
+    "label_ja": "ベネズエラ"
+  },
+  {
+    "Qid": "Q217230",
+    "label_en": "Empire of Brazil",
+    "label_vi": "Đế quốc Brasil",
+    "label_ja": "ブラジル帝国"
+  },
+  {
+    "Qid": "Q42956",
+    "label_en": "Harbin",
+    "label_vi": "Cáp Nhĩ Tân",
+    "label_ja": "ハルビン市"
+  },
+  {
+    "Qid": "Q736",
+    "label_en": "Ecuador",
+    "label_vi": "Ecuador",
+    "label_ja": "エクアドル"
+  },
+  {
+    "Qid": "Q774",
+    "label_en": "Guatemala",
+    "label_vi": "Guatemala",
+    "label_ja": "グアテマラ"
+  },
+  {
+    "Qid": "Q408",
+    "label_en": "Australia",
+    "label_vi": "Úc",
+    "label_ja": "オーストラリア"
+  },
+  {
+    "Qid": "Q262",
+    "label_en": "Algeria",
+    "label_vi": "Algérie",
+    "label_ja": "アルジェリア"
+  },
+  {
+    "Qid": "Q24639",
+    "label_en": "Vancouver",
+    "label_vi": "Vancouver",
+    "label_ja": "バンクーバー"
+  },
+  {
+    "Qid": "Q800",
+    "label_en": "Costa Rica",
+    "label_vi": "Costa Rica",
+    "label_ja": "コスタリカ"
+  },
+  {
+    "Qid": "Q170603",
+    "label_en": "Viceroyalty of New Spain",
+    "label_vi": "Tân Tây Ban Nha",
+    "label_ja": "ヌエバ・エスパーニャ"
+  },
+  {
+    "Qid": "Q84090",
+    "label_en": "Archbasilica of St. John Lateran",
+    "label_vi": "Tổng lãnh vương cung thánh đường Thánh Gioan Latêranô",
+    "label_ja": "サン・ジョバンニ・イン・ラテラノ大聖堂"
+  },
+  {
+    "Qid": "Q2978",
+    "label_en": "Regensburg",
+    "label_vi": "Regensburg",
+    "label_ja": "レーゲンスブルク"
+  },
+  {
+    "Qid": "Q2415901",
+    "label_en": "Allied-occupied Germany",
+    "label_vi": "Đồng minh chiếm đóng Đức",
+    "label_ja": "連合軍軍政期"
+  },
+  {
+    "Qid": "Q101935",
+    "label_en": "Huguenot",
+    "label_vi": "Huguenot",
+    "label_ja": "ユグノー"
+  },
+  {
+    "Qid": "Q917",
+    "label_en": "Bhutan",
+    "label_vi": "Bhutan",
+    "label_ja": "ブータン"
+  },
+  {
+    "Qid": "Q189823",
+    "label_en": "Haikou",
+    "label_vi": "Hải Khẩu",
+    "label_ja": "海口市"
+  },
+  {
+    "Qid": "Q3012",
+    "label_en": "Ulm",
+    "label_vi": "Ulm",
+    "label_ja": "ウルム"
+  },
+  {
+    "Qid": "Q65",
+    "label_en": "Los Angeles",
+    "label_vi": "Los Angeles",
+    "label_ja": "ロサンゼルス"
+  },
+  {
+    "Qid": "Q60",
+    "label_en": "New York City",
+    "label_vi": "Thành phố New York",
+    "label_ja": "ニューヨーク"
+  },
+  {
+    "Qid": "Q39193",
+    "label_en": "Bohemia",
+    "label_vi": "Čechy",
+    "label_ja": "ボヘミア"
+  },
+  {
+    "Qid": "Q24826",
+    "label_en": "Liverpool",
+    "label_vi": "Liverpool",
+    "label_ja": "リヴァプール"
+  },
+  {
+    "Qid": "Q1741",
+    "label_en": "Vienna",
+    "label_vi": "Viên",
+    "label_ja": "ウィーン"
+  },
+  {
+    "Qid": "Q42807",
+    "label_en": "Nîmes",
+    "label_vi": "Nîmes",
+    "label_ja": "ニーム"
+  },
+  {
+    "Qid": "Q3920",
+    "label_en": "Lüneburg",
+    "label_vi": "Lüneburg",
+    "label_ja": "リューネブルク"
+  },
+  {
+    "Qid": "Q14112",
+    "label_en": "Corsica",
+    "label_vi": "Corse",
+    "label_ja": "コルシカ島"
+  },
+  {
+    "Qid": "Q106583",
+    "label_en": "Bielsko-Biała",
+    "label_vi": "Bielsko-Biała",
+    "label_ja": "ビェルスコ＝ビャワ"
+  },
+  {
+    "Qid": "Q23311",
+    "label_en": "City of London",
+    "label_vi": "Thành phố Luân Đôn",
+    "label_ja": "シティ・オブ・ロンドン"
+  },
+  {
+    "Qid": "Q6534",
+    "label_en": "French Revolution",
+    "label_vi": "Cách mạng Pháp",
+    "label_ja": "フランス革命"
+  },
+  {
+    "Qid": "Q187830",
+    "label_en": "history of Austria",
+    "label_vi": "Lịch sử Áo",
+    "label_ja": "オーストリアの歴史"
+  },
+  {
+    "Qid": "Q28513",
+    "label_en": "Austria-Hungary",
+    "label_vi": "Đế quốc Áo-Hung",
+    "label_ja": "オーストリア＝ハンガリー帝国"
+  },
+  {
+    "Qid": "Q47611",
+    "label_en": "Ephesus",
+    "label_vi": "Ephesus",
+    "label_ja": "エフェソス"
+  },
+  {
+    "Qid": "Q983",
+    "label_en": "Equatorial Guinea",
+    "label_vi": "Guinea Xích Đạo",
+    "label_ja": "赤道ギニア"
+  },
+  {
+    "Qid": "Q20934",
+    "label_en": "Incheon",
+    "label_vi": "Incheon",
+    "label_ja": "仁川広域市"
+  },
+  {
+    "Qid": "Q21",
+    "label_en": "England",
+    "label_vi": "Anh",
+    "label_ja": "イングランド"
+  },
+  {
+    "Qid": "Q963",
+    "label_en": "Botswana",
+    "label_vi": "Botswana",
+    "label_ja": "ボツワナ"
+  },
+  {
+    "Qid": "Q29999",
+    "label_en": "Kingdom of the Netherlands",
+    "label_vi": "Vương quốc Hà Lan",
+    "label_ja": "オランダ王国"
+  },
+  {
+    "Qid": "Q889",
+    "label_en": "Afghanistan",
+    "label_vi": "Afghanistan",
+    "label_ja": "アフガニスタン"
+  },
+  {
+    "Qid": "Q1770",
+    "label_en": "Tallinn",
+    "label_vi": "Tallinn",
+    "label_ja": "タリン"
+  },
+  {
+    "Qid": "Q415563",
+    "label_en": "ethinylestradiol",
+    "label_vi": "Ethinylestradiol",
+    "label_ja": "エチニルエストラジオール"
+  },
+  {
+    "Qid": "Q967",
+    "label_en": "Burundi",
+    "label_vi": "Burundi",
+    "label_ja": "ブルンジ"
+  },
+  {
+    "Qid": "Q2634",
+    "label_en": "Naples",
+    "label_vi": "Napoli",
+    "label_ja": "ナポリ"
+  },
+  {
+    "Qid": "Q1016",
+    "label_en": "Libya",
+    "label_vi": "Libya",
+    "label_ja": "リビア"
+  },
+  {
+    "Qid": "Q464200",
+    "label_en": "history of Buddhism",
+    "label_vi": "Lịch sử Phật giáo",
+    "label_ja": "仏教の歴史"
+  },
+  {
+    "Qid": "Q702",
+    "label_en": "Federated States of Micronesia",
+    "label_vi": "Micronesia",
+    "label_ja": "ミクロネシア連邦"
+  },
+  {
+    "Qid": "Q62651",
+    "label_en": "Denmark-Norway",
+    "label_vi": "Đan Mạch-Na Uy",
+    "label_ja": "デンマーク＝ノルウェー"
+  },
+  {
+    "Qid": "Q48320",
+    "label_en": "Kōbe",
+    "label_vi": "Kobe",
+    "label_ja": "神戸市"
+  },
+  {
+    "Qid": "Q212056",
+    "label_en": "Mongolian People's Republic",
+    "label_vi": "Cộng hòa Nhân dân Mông Cổ",
+    "label_ja": "モンゴル人民共和国"
+  },
+  {
+    "Qid": "Q781",
+    "label_en": "Antigua and Barbuda",
+    "label_vi": "Antigua và Barbuda",
+    "label_ja": "アンティグア・バーブーダ"
+  },
+  {
+    "Qid": "Q585",
+    "label_en": "Oslo",
+    "label_vi": "Oslo",
+    "label_ja": "オスロ"
+  },
+  {
+    "Qid": "Q70972",
+    "label_en": "Kingdom of France",
+    "label_vi": "Vương quốc Pháp",
+    "label_ja": "フランス王国"
+  },
+  {
+    "Qid": "Q7787",
+    "label_en": "history of Europe",
+    "label_vi": "Lịch sử châu Âu",
+    "label_ja": "ヨーロッパ史"
+  },
+  {
+    "Qid": "Q915",
+    "label_en": "Perm",
+    "label_vi": "Perm'",
+    "label_ja": "ペルミ"
+  },
+  {
+    "Qid": "Q172107",
+    "label_en": "Polish–Lithuanian Commonwealth",
+    "label_vi": "Vương quốc Ba Lan và Đại Công quốc Litva",
+    "label_ja": "ポーランド・リトアニア共和国"
+  },
+  {
+    "Qid": "Q1963",
+    "label_en": "Khartoum",
+    "label_vi": "Khartoum",
+    "label_ja": "ハルツーム"
+  },
+  {
+    "Qid": "Q35493",
+    "label_en": "Almaty",
+    "label_vi": "Almaty",
+    "label_ja": "アルマトイ"
+  },
+  {
+    "Qid": "Q1007",
+    "label_en": "Guinea-Bissau",
+    "label_vi": "Guiné-Bissau",
+    "label_ja": "ギニアビサウ"
+  },
+  {
+    "Qid": "Q23768",
+    "label_en": "Las Vegas",
+    "label_vi": "Las Vegas",
+    "label_ja": "ラスベガス"
+  },
+  {
+    "Qid": "Q710",
+    "label_en": "Kiribati",
+    "label_vi": "Kiribati",
+    "label_ja": "キリバス"
+  },
+  {
+    "Qid": "Q51615",
+    "label_en": "history of the Middle East",
+    "label_vi": "Lịch sử Trung Đông",
+    "label_ja": "西アジア・中東史"
+  },
+  {
+    "Qid": "Q6602",
+    "label_en": "Strasbourg",
+    "label_vi": "Strasbourg",
+    "label_ja": "ストラスブール"
+  },
+  {
+    "Qid": "Q131416",
+    "label_en": "Derbent",
+    "label_vi": "Derbent",
+    "label_ja": "デルベント"
+  },
+  {
+    "Qid": "Q31945",
+    "label_en": "Arabian Peninsula",
+    "label_vi": "Bán đảo Ả Rập",
+    "label_ja": "アラビア半島"
+  },
+  {
+    "Qid": "Q36",
+    "label_en": "Poland",
+    "label_vi": "Ba Lan",
+    "label_ja": "ポーランド"
+  },
+  {
+    "Qid": "Q27275",
+    "label_en": "Central Asia",
+    "label_vi": "Trung Á",
+    "label_ja": "中央アジア"
+  },
+  {
+    "Qid": "Q169134",
+    "label_en": "Nara",
+    "label_vi": "Thành phố Nara",
+    "label_ja": "奈良市"
+  },
+  {
+    "Qid": "Q122131",
+    "label_en": "history of Germany",
+    "label_vi": "lịch sử Đức",
+    "label_ja": "ドイツの歴史"
+  },
+  {
+    "Qid": "Q17",
+    "label_en": "Japan",
+    "label_vi": "Nhật Bản",
+    "label_ja": "日本"
+  },
+  {
+    "Qid": "Q230791",
+    "label_en": "Kingdom of Scotland",
+    "label_vi": "Vương quốc Scotland",
+    "label_ja": "スコットランド王国"
+  },
+  {
+    "Qid": "Q159709",
+    "label_en": "Gilgamesh",
+    "label_vi": "Gilgamesh",
+    "label_ja": "ギルガメシュ"
+  },
+  {
+    "Qid": "Q2100",
+    "label_en": "Duisburg",
+    "label_vi": "Duisburg",
+    "label_ja": "デュースブルク"
+  },
+  {
+    "Qid": "Q4970",
+    "label_en": "Hangzhou",
+    "label_vi": "Hàng Châu",
+    "label_ja": "杭州市"
+  },
+  {
+    "Qid": "Q9903",
+    "label_en": "Ming dynasty",
+    "label_vi": "Nhà Minh",
+    "label_ja": "明"
+  },
+  {
+    "Qid": "Q1850",
+    "label_en": "Phnom Penh",
+    "label_vi": "Phnôm Pênh",
+    "label_ja": "プノンペン"
+  },
+  {
+    "Qid": "Q649",
+    "label_en": "Moscow",
+    "label_vi": "Moskva",
+    "label_ja": "モスクワ"
+  },
+  {
+    "Qid": "Q3630",
+    "label_en": "Jakarta",
+    "label_vi": "Jakarta",
+    "label_ja": "ジャカルタ"
+  },
+  {
+    "Qid": "Q12548",
+    "label_en": "Holy Roman Empire",
+    "label_vi": "Đế quốc La Mã Thần thánh",
+    "label_ja": "神聖ローマ帝国"
+  },
+  {
+    "Qid": "Q5743",
+    "label_en": "Ebla",
+    "label_vi": "Ebla",
+    "label_ja": "エブラ"
+  },
+  {
+    "Qid": "Q340",
+    "label_en": "Montreal",
+    "label_vi": "Montréal",
+    "label_ja": "モントリオール"
+  },
+  {
+    "Qid": "Q384544",
+    "label_en": "Karlovy Vary",
+    "label_vi": "Karlovy Vary",
+    "label_ja": "カルロヴィ・ヴァリ"
+  },
+  {
+    "Qid": "Q189",
+    "label_en": "Iceland",
+    "label_vi": "Iceland",
+    "label_ja": "アイスランド"
+  },
+  {
+    "Qid": "Q929",
+    "label_en": "Central African Republic",
+    "label_vi": "Cộng hòa Trung Phi",
+    "label_ja": "中央アフリカ共和国"
+  },
+  {
+    "Qid": "Q843",
+    "label_en": "Pakistan",
+    "label_vi": "Pakistan",
+    "label_ja": "パキスタン"
+  },
+  {
+    "Qid": "Q34370",
+    "label_en": "Rotterdam",
+    "label_vi": "Rotterdam",
+    "label_ja": "ロッテルダム"
+  },
+  {
+    "Qid": "Q170468",
+    "label_en": "United Arab Republic",
+    "label_vi": "Cộng hòa Ả Rập Thống nhất",
+    "label_ja": "アラブ連合共和国"
+  },
+  {
+    "Qid": "Q956",
+    "label_en": "Beijing",
+    "label_vi": "Bắc Kinh",
+    "label_ja": "北京市"
+  },
+  {
+    "Qid": "Q419",
+    "label_en": "Peru",
+    "label_vi": "Peru",
+    "label_ja": "ペルー"
+  },
+  {
+    "Qid": "Q817",
+    "label_en": "Kuwait",
+    "label_vi": "Kuwait",
+    "label_ja": "クウェート"
+  },
+  {
+    "Qid": "Q459",
+    "label_en": "Plovdiv",
+    "label_vi": "Plovdiv",
+    "label_ja": "プロヴディフ"
+  },
+  {
+    "Qid": "Q159",
+    "label_en": "Russia",
+    "label_vi": "Nga",
+    "label_ja": "ロシア"
+  },
+  {
+    "Qid": "Q1011",
+    "label_en": "Cape Verde",
+    "label_vi": "Cabo Verde",
+    "label_ja": "カーボベルデ"
+  },
+  {
+    "Qid": "Q1006",
+    "label_en": "Guinea",
+    "label_vi": "Guinée",
+    "label_ja": "ギニア"
+  },
+  {
+    "Qid": "Q2079",
+    "label_en": "Leipzig",
+    "label_vi": "Leipzig",
+    "label_ja": "ライプツィヒ"
+  },
+  {
+    "Qid": "Q24879",
+    "label_en": "Bremen",
+    "label_vi": "Bremen",
+    "label_ja": "ブレーメン"
+  },
+  {
+    "Qid": "Q971",
+    "label_en": "Republic of the Congo",
+    "label_vi": "Cộng hòa Congo",
+    "label_ja": "コンゴ共和国"
+  },
+  {
+    "Qid": "Q3889",
+    "label_en": "Maputo",
+    "label_vi": "Maputo",
+    "label_ja": "マプト"
+  },
+  {
+    "Qid": "Q43",
+    "label_en": "Turkey",
+    "label_vi": "Thổ Nhĩ Kỳ",
+    "label_ja": "トルコ"
+  },
+  {
+    "Qid": "Q1781",
+    "label_en": "Budapest",
+    "label_vi": "Budapest",
+    "label_ja": "ブダペスト"
+  },
+  {
+    "Qid": "Q239502",
+    "label_en": "Kingdom of Galicia–Volhynia",
+    "label_vi": "Công quốc Galicia–Volyn",
+    "label_ja": "ハールィチ・ヴォルィーニ大公国"
+  },
+  {
+    "Qid": "Q174825",
+    "label_en": "history of Australia",
+    "label_vi": "Lịch sử Úc",
+    "label_ja": "オーストラリアの歴史"
+  },
+  {
+    "Qid": "Q739",
+    "label_en": "Colombia",
+    "label_vi": "Colombia",
+    "label_ja": "コロンビア"
+  },
+  {
+    "Qid": "Q711",
+    "label_en": "Mongolia",
+    "label_vi": "Mông Cổ",
+    "label_ja": "モンゴル国"
+  },
+  {
+    "Qid": "Q5083",
+    "label_en": "Seattle",
+    "label_vi": "Seattle",
+    "label_ja": "シアトル"
+  },
+  {
+    "Qid": "Q39121",
+    "label_en": "Leeds",
+    "label_vi": "Leeds",
+    "label_ja": "リーズ"
+  },
+  {
+    "Qid": "Q858",
+    "label_en": "Syria",
+    "label_vi": "Syria",
+    "label_ja": "シリア"
+  },
+  {
+    "Qid": "Q769",
+    "label_en": "Grenada",
+    "label_vi": "Grenada",
+    "label_ja": "グレナダ"
+  },
+  {
+    "Qid": "Q734",
+    "label_en": "Guyana",
+    "label_vi": "Guyana",
+    "label_ja": "ガイアナ"
+  },
+  {
+    "Qid": "Q3820",
+    "label_en": "Beirut",
+    "label_vi": "Beirut",
+    "label_ja": "ベイルート"
+  },
+  {
+    "Qid": "Q232",
+    "label_en": "Kazakhstan",
+    "label_vi": "Kazakhstan",
+    "label_ja": "カザフスタン"
+  },
+  {
+    "Qid": "Q1005",
+    "label_en": "The Gambia",
+    "label_vi": "Gambia",
+    "label_ja": "ガンビア"
+  },
+  {
+    "Qid": "Q7794",
+    "label_en": "history of Greece",
+    "label_vi": "Lịch sử Hy Lạp",
+    "label_ja": "ギリシャの歴史"
+  },
+  {
+    "Qid": "Q219",
+    "label_en": "Bulgaria",
+    "label_vi": "Bulgaria",
+    "label_ja": "ブルガリア"
+  },
+  {
+    "Qid": "Q586",
+    "label_en": "Bonn",
+    "label_vi": "Bonn",
+    "label_ja": "ボン"
+  },
+  {
+    "Qid": "Q115",
+    "label_en": "Ethiopia",
+    "label_vi": "Ethiopia",
+    "label_ja": "エチオピア"
+  },
+  {
+    "Qid": "Q811",
+    "label_en": "Nicaragua",
+    "label_vi": "Nicaragua",
+    "label_ja": "ニカラグア"
+  },
+  {
+    "Qid": "Q3859",
+    "label_en": "Kigali",
+    "label_vi": "Kigali",
+    "label_ja": "キガリ"
+  },
+  {
+    "Qid": "Q216786",
+    "label_en": "Champa",
+    "label_vi": "Chăm Pa",
+    "label_ja": "チャンパ王国"
+  },
+  {
+    "Qid": "Q676203",
+    "label_en": "Machu Picchu",
+    "label_vi": "Machu Picchu",
+    "label_ja": "マチュ・ピチュ"
+  },
+  {
+    "Qid": "Q192541",
+    "label_en": "Ctesiphon",
+    "label_vi": "Ctesiphon",
+    "label_ja": "クテシフォン"
+  },
+  {
+    "Qid": "Q38234",
+    "label_en": "Nagasaki",
+    "label_vi": "Nagasaki",
+    "label_ja": "長崎市"
+  },
+  {
+    "Qid": "Q11739",
+    "label_en": "Lahore",
+    "label_vi": "Lahore",
+    "label_ja": "ラホール"
+  },
+  {
+    "Qid": "Q641",
+    "label_en": "Venice",
+    "label_vi": "Venezia",
+    "label_ja": "ヴェネツィア"
+  },
+  {
+    "Qid": "Q987",
+    "label_en": "New Delhi",
+    "label_vi": "New Delhi",
+    "label_ja": "ニューデリー"
+  },
+  {
+    "Qid": "Q71084",
+    "label_en": "First French Empire",
+    "label_vi": "Đế chế thứ nhất",
+    "label_ja": "フランス第一帝政"
+  },
+  {
+    "Qid": "Q161414",
+    "label_en": "history of Russia",
+    "label_vi": "Lịch sử Nga",
+    "label_ja": "ロシアの歴史"
+  },
+  {
+    "Qid": "Q970",
+    "label_en": "Comoros",
+    "label_vi": "Comoros",
+    "label_ja": "コモロ"
+  },
+  {
+    "Qid": "Q695",
+    "label_en": "Palau",
+    "label_vi": "Palau",
+    "label_ja": "パラオ"
+  },
+  {
+    "Qid": "Q69829",
+    "label_en": "French Fourth Republic",
+    "label_vi": "Đệ tứ Cộng hòa Pháp",
+    "label_ja": "フランス第四共和政"
+  },
+  {
+    "Qid": "Q85",
+    "label_en": "Cairo",
+    "label_vi": "Cairo",
+    "label_ja": "カイロ"
+  },
+  {
+    "Qid": "Q2028",
+    "label_en": "Verona",
+    "label_vi": "Verona",
+    "label_ja": "ヴェローナ"
+  },
+  {
+    "Qid": "Q414",
+    "label_en": "Argentina",
+    "label_vi": "Argentina",
+    "label_ja": "アルゼンチン"
+  },
+  {
+    "Qid": "Q16572",
+    "label_en": "Guangzhou",
+    "label_vi": "Quảng Châu",
+    "label_ja": "広州市"
+  },
+  {
+    "Qid": "Q174193",
+    "label_en": "United Kingdom of Great Britain and Ireland",
+    "label_vi": "Vương quốc Liên hiệp Anh và Ireland",
+    "label_ja": "グレートブリテン及びアイルランド連合王国"
+  },
+  {
+    "Qid": "Q786",
+    "label_en": "Dominican Republic",
+    "label_vi": "Cộng hòa Dominica",
+    "label_ja": "ドミニカ共和国"
+  },
+  {
+    "Qid": "Q330988",
+    "label_en": "Democratic Kampuchea",
+    "label_vi": "Campuchia Dân chủ",
+    "label_ja": "民主カンボジア"
+  },
+  {
+    "Qid": "Q819",
+    "label_en": "Laos",
+    "label_vi": "Lào",
+    "label_ja": "ラオス"
+  },
+  {
+    "Qid": "Q33",
+    "label_en": "Finland",
+    "label_vi": "Phần Lan",
+    "label_ja": "フィンランド"
+  },
+  {
+    "Qid": "Q34600",
+    "label_en": "Kyoto",
+    "label_vi": "Thành phố Kyōto",
+    "label_ja": "京都市"
+  },
+  {
+    "Qid": "Q155975",
+    "label_en": "Kutná Hora",
+    "label_vi": "Kutná Hora",
+    "label_ja": "クトナー・ホラ"
+  },
+  {
+    "Qid": "Q1722",
+    "label_en": "Dubrovnik",
+    "label_vi": "Dubrovnik",
+    "label_ja": "ドゥブロヴニク"
+  },
+  {
+    "Qid": "Q912",
+    "label_en": "Mali",
+    "label_vi": "Mali",
+    "label_ja": "マリ共和国"
+  },
+  {
+    "Qid": "Q191130",
+    "label_en": "Kanazawa",
+    "label_vi": "Kanazawa",
+    "label_ja": "金沢市"
+  },
+  {
+    "Qid": "Q170072",
+    "label_en": "Dutch Republic",
+    "label_vi": "Cộng hòa Hà Lan",
+    "label_ja": "ネーデルラント連邦共和国"
+  },
+  {
+    "Qid": "Q699964",
+    "label_en": "Archduchy of Austria",
+    "label_vi": "Đại Công quốc Áo",
+    "label_ja": "オーストリア大公国"
+  },
+  {
+    "Qid": "Q8810",
+    "label_en": "Granada",
+    "label_vi": "Granada",
+    "label_ja": "グラナダ"
+  },
+  {
+    "Qid": "Q96",
+    "label_en": "Mexico",
+    "label_vi": "México",
+    "label_ja": "メキシコ"
+  },
+  {
+    "Qid": "Q235",
+    "label_en": "Monaco",
+    "label_vi": "Monaco",
+    "label_ja": "モナコ"
+  },
+  {
+    "Qid": "Q1748",
+    "label_en": "Copenhagen",
+    "label_vi": "Copenhagen",
+    "label_ja": "コペンハーゲン"
+  },
+  {
+    "Qid": "Q1854",
+    "label_en": "Ho Chi Minh City",
+    "label_vi": "Thành phố Hồ Chí Minh",
+    "label_ja": "ホーチミン市"
+  },
+  {
+    "Qid": "Q137271",
+    "label_en": "Kota Kinabalu",
+    "label_vi": "Kota Kinabalu",
+    "label_ja": "コタキナバル"
+  },
+  {
+    "Qid": "Q172579",
+    "label_en": "Kingdom of Italy",
+    "label_vi": "Vương quốc Ý",
+    "label_ja": "イタリア王国"
+  },
+  {
+    "Qid": "Q790",
+    "label_en": "Haiti",
+    "label_vi": "Haiti",
+    "label_ja": "ハイチ"
+  }
+]
