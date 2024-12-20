@@ -11,7 +11,7 @@ import {
 } from "antd";
 import {useState} from "react";
 import AppHeader from "@/components/Header";
-import searchData from "../../statics/search.json";
+import searchData from "@/public/statics/search.json";
 import HyperlinkTable, {DataType} from "@/components/HyperlinkTable";
 
 type Recommendations = {
@@ -29,7 +29,7 @@ type Recommendations = {
 };
 
 // Import the JSON and cast it to the type
-import recommendations from "../../statics/recommendation.json" assert { type: "json" };
+import recommendations from "@/public/statics/recommendation.json" assert { type: "json" };
 const recs = recommendations as unknown as Recommendations;
 
 const { Title } = Typography;

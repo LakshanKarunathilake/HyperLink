@@ -7,7 +7,7 @@ import {
     Row, Col, Card
 } from "antd";
 import VixWordCloud from "@/components/VixWordCloud";
-import data from "../statics/local_types.json"
+import data from "@/public/statics/local_types.json"
 import AppHeader from "@/components/Header";
 
 const {Title} = Typography;
