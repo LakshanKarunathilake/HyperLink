@@ -29,7 +29,7 @@ const columns: TableProps<DataType>['columns'] = [
         key: 'vi',
     },
     {
-        title: 'Label(Vi)',
+        title: 'Label(Ja)',
         dataIndex: 'ja',
         key: 'ja',
     },

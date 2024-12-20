@@ -114,7 +114,7 @@ export default function Home() {
             index = index + 1;
 
         }
-        setSelectedTitle(value);
+        setSelectedTitle(results["label"]);
         setTableData(dataMappings)
     };
 
@@ -151,6 +151,7 @@ export default function Home() {
                             {tableData.length > 0 && (
                                 <div>
                                     <Title level={4}>Selected Title: {selectedTitle}</Title>
+                                    <Title level={4}>Predicted Hyperlinks</Title>
                                     <HyperlinkTable tableData={tableData}/>
                                 </div>
                             )}
