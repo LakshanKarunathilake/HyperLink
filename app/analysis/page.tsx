@@ -97,7 +97,7 @@ export default function Home() {
         console.log('onSelect', value);
         console.log(value)
         // Find the results from the recommendations
-        const results = recs["en"][value];
+        const results = recs[language][value];
         const hyperlinks = results["hyperlinks"];
 
         const dataMappings: DataType[] = [];
